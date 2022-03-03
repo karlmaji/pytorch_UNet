@@ -1,2 +1,3 @@
 # pytorch_UNet
-> 使用Unet进行医学影像分割
+> pytorch + pytorch_lightning 复现vgg_Unet
+> 详情见 * <a href="Unet.ipynb">Unet.ipynb/</a>
